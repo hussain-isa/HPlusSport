@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>H+ Sport Products</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="hero">
+        <p class="eyebrow">H+ Sport</p>
+        <h1>Product Catalog</h1>
+        <p>Browse product data loaded directly from the Products API.</p>
+    </header>
+
+    <main class="page-shell">
+        <section class="toolbar" aria-label="Product tools">
+            <div>
+                <h2>Products</h2>
+                <p id="product-count">Loading products...</p>
+            </div>
+            <button id="refresh-products" type="button">Refresh catalog</button>
+        </section>
+
+        <section id="status-message" class="status-message" role="status" aria-live="polite"></section>
+        <section id="products-grid" class="products-grid" aria-label="Product list"></section>
+    </main>
+
+    <script src="products.js"></script>
+</body>
+</html>
