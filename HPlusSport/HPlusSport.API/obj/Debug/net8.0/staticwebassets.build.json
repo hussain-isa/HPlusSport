@@ -1,1 +1,77 @@
-{"Version":1,"Hash":"iwmlcSSIYKWyqV0gfqZ+tNzLW2FsAZsG8xrvY+9Vyio=","Source":"HPlusSport.API","BasePath":"_content/HPlusSport.API","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "aYr5fOvQNST+Ppms768hFQyFSKQtzqL8mzNsiusbdMk=",
+  "Source": "HPlusSport.API",
+  "BasePath": "_content/HPlusSport.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HPlusSport.API/wwwroot",
+      "Source": "HPlusSport.API",
+      "ContentRoot": "/home/programming/HPlusSport/HPlusSport/HPlusSport.API/wwwroot/",
+      "BasePath": "_content/HPlusSport.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/programming/HPlusSport/HPlusSport/HPlusSport.API/wwwroot/index.html",
+      "SourceId": "HPlusSport.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/programming/HPlusSport/HPlusSport/HPlusSport.API/wwwroot/",
+      "BasePath": "_content/HPlusSport.API",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/programming/HPlusSport/HPlusSport/HPlusSport.API/wwwroot/products.js",
+      "SourceId": "HPlusSport.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/programming/HPlusSport/HPlusSport/HPlusSport.API/wwwroot/",
+      "BasePath": "_content/HPlusSport.API",
+      "RelativePath": "products.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/products.js"
+    },
+    {
+      "Identity": "/home/programming/HPlusSport/HPlusSport/HPlusSport.API/wwwroot/styles.css",
+      "SourceId": "HPlusSport.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/programming/HPlusSport/HPlusSport/HPlusSport.API/wwwroot/",
+      "BasePath": "_content/HPlusSport.API",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/styles.css"
+    }
+  ]
+}

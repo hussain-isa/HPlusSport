@@ -1,90 +1,135 @@
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\appsettings.json
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\HPlusSport.API.staticwebassets.endpoints.json
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\HPlusSport.API.exe
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\HPlusSport.API.deps.json
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\HPlusSport.API.runtimeconfig.json
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\HPlusSport.API.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\HPlusSport.API.pdb
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.csproj.AssemblyReference.cache
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.AssemblyInfoInputs.cache
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.AssemblyInfo.cs
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.csproj.CoreCompileInputs.cache
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\scopedcss\bundle\HPlusSport.API.styles.css
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSpo.33A852E7.Up2Date
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\refint\HPlusSport.API.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.pdb
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.genruntimeconfig.cache
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\ref\HPlusSport.API.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.sourcelink.json
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\IBRAHIM\OneDrive\Documents\Hafiz School Work\API TEST\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\appsettings.Development.json
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\appsettings.json
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\HPlusSport.API.staticwebassets.endpoints.json
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\HPlusSport.API.exe
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\HPlusSport.API.deps.json
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\HPlusSport.API.runtimeconfig.json
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\HPlusSport.API.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\HPlusSport.API.pdb
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.csproj.AssemblyReference.cache
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\rpswa.dswa.cache.json
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.GeneratedMSBuildEditorConfig.editorconfig
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.AssemblyInfoInputs.cache
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.AssemblyInfo.cs
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.csproj.CoreCompileInputs.cache
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.MvcApplicationPartsAssemblyInfo.cs
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.MvcApplicationPartsAssemblyInfo.cache
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.sourcelink.json
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\scopedcss\bundle\HPlusSport.API.styles.css
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\staticwebassets.build.json
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\staticwebassets.build.json.cache
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\staticwebassets.development.json
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSpo.33A852E7.Up2Date
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\refint\HPlusSport.API.dll
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.pdb
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\HPlusSport.API.genruntimeconfig.cache
-F:\Hafiz School Work\Application Programming\HPlusSport\HPlusSport.API\obj\Debug\net8.0\ref\HPlusSport.API.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/appsettings.json
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.staticwebassets.endpoints.json
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.exe
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.deps.json
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.runtimeconfig.json
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.pdb
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.csproj.AssemblyReference.cache
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/rpswa.dswa.cache.json
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.AssemblyInfoInputs.cache
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.AssemblyInfo.cs
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.csproj.CoreCompileInputs.cache
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/rjimswa.dswa.cache.json
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/scopedcss/bundle/HPlusSport.API.styles.css
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets.build.json.cache
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSpo.33A852E7.Up2Date
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/refint/HPlusSport.API.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.pdb
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.genruntimeconfig.cache
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/ref/HPlusSport.API.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.sourcelink.json
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/IBRAHIM/OneDrive/Documents/Hafiz School Work/API TEST/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/appsettings.Development.json
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/appsettings.json
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.staticwebassets.endpoints.json
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.exe
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.deps.json
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.runtimeconfig.json
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.pdb
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.csproj.AssemblyReference.cache
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/rpswa.dswa.cache.json
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.GeneratedMSBuildEditorConfig.editorconfig
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.AssemblyInfoInputs.cache
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.AssemblyInfo.cs
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.csproj.CoreCompileInputs.cache
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.MvcApplicationPartsAssemblyInfo.cs
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.MvcApplicationPartsAssemblyInfo.cache
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.sourcelink.json
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/rjimswa.dswa.cache.json
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/scopedcss/bundle/HPlusSport.API.styles.css
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets.build.json
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets.build.json.cache
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets.development.json
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSpo.33A852E7.Up2Date
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/refint/HPlusSport.API.dll
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.pdb
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.genruntimeconfig.cache
+F:/Hafiz School Work/Application Programming/HPlusSport/HPlusSport.API/obj/Debug/net8.0/ref/HPlusSport.API.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/appsettings.Development.json
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/appsettings.json
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.staticwebassets.runtime.json
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.deps.json
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.runtimeconfig.json
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/HPlusSport.API.pdb
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/MySqlConnector.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.csproj.AssemblyReference.cache
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.AssemblyInfoInputs.cache
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.AssemblyInfo.cs
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.csproj.CoreCompileInputs.cache
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.MvcApplicationPartsAssemblyInfo.cs
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.MvcApplicationPartsAssemblyInfo.cache
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.sourcelink.json
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets.build.json
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets.development.json
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets/msbuild.HPlusSport.API.Microsoft.AspNetCore.StaticWebAssets.props
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets/msbuild.build.HPlusSport.API.props
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HPlusSport.API.props
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HPlusSport.API.props
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/staticwebassets.pack.json
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/scopedcss/bundle/HPlusSport.API.styles.css
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.csproj.CopyComplete
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/refint/HPlusSport.API.dll
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.pdb
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.genruntimeconfig.cache
+/home/programming/HPlusSport/HPlusSport/HPlusSport.API/obj/Debug/net8.0/ref/HPlusSport.API.dll

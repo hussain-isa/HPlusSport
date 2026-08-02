@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/home/programming/HPlusSport/HPlusSport/HPlusSport.API/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/programming/HPlusSport/HPlusSport/HPlusSport.API/wwwroot/products.js",
+      "PackagePath": "staticwebassets/products.js"
+    },
+    {
+      "Id": "/home/programming/HPlusSport/HPlusSport/HPlusSport.API/wwwroot/styles.css",
+      "PackagePath": "staticwebassets/styles.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.HPlusSport.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.HPlusSport.API.props",
+      "PackagePath": "build\\HPlusSport.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HPlusSport.API.props",
+      "PackagePath": "buildMultiTargeting\\HPlusSport.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HPlusSport.API.props",
+      "PackagePath": "buildTransitive\\HPlusSport.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
