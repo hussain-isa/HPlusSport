@@ -24,11 +24,15 @@ builder.Services.AddSwaggerGen();
 var connectionString = builder.Configuration.GetConnectionString("ShopConnection")
     ?? throw new InvalidOperationException("Connection string 'ShopConnection' was not found.");
 
+// The Ubuntu setup for this project uses MariaDB 10.6, which requires the
+// MariaDB server version metadata instead of Oracle MySQL 8 metadata.
+var serverVersion = new MariaDbServerVersion(new Version(10, 6, 23));
+
 builder.Services.AddDbContext<ShopContext>(options =>
 {
     options.UseMySql(
         connectionString,
-        new MariaDbServerVersion(new Version(10, 6, 23)),
+        serverVersion,
         mySqlOptions => mySqlOptions.EnableRetryOnFailure());
 });
 
